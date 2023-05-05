@@ -5,9 +5,9 @@ This microwave simulator in a FPGA was a digital systems test of my graduation i
 <div align="center"> 
 This simulator works as explained below:
   </div>
-  <div align="center"> 
-![nexys-a7-explicacao](https://user-images.githubusercontent.com/102065589/236355666-db6c6894-b737-4449-8960-a0ed6cb26691.png)
-</div>
+<div align="center"> 
+<img src="https://user-images.githubusercontent.com/102065589/236355666-db6c6894-b737-4449-8960-a0ed6cb26691.png" >
+  </div>
   <div align="center"> 
  -----------------------
 </div>
