@@ -37,6 +37,15 @@ This simulator works as explained below:
 <div align="center"> 
 <img src="https://user-images.githubusercontent.com/102065589/236349540-e578a95b-2ad4-479e-bb9a-302525d7d10f.PNG" >
   </div>
+   <div align="center"> 
+ 
+ - EA = Actual state
+ - mais = plus
+ - menos = plus
+ - potencia = power
+ 
+</div>
+  
   <div align="center"> 
  
  🙋‍♂️ Thanks for visiting my repository!
