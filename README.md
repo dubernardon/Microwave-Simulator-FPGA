@@ -1,4 +1,4 @@
-# Microwave-Simulator-FGPA-VERILOG
+# Verilog microwave simulator with FPGA
 <div align="center"> 
 This microwave simulator in a FPGA was a digital systems test of my graduation in Computer Engineering.
  </div>
