@@ -39,7 +39,7 @@ This simulator works as explained below:
   </div>
    <div align="center"> 
  
- - EA = Actual state
+ - EA = current state
  - mais = plus
  - menos = plus
  - potencia = power
